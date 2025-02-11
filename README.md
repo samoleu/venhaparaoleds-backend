@@ -1,5 +1,3 @@
-# Teste de admissão para o LEDS
-
 O desafio é desenvolver um programa que permita realizar as seguintes buscas: 
 1. Listar os **órgãos, códigos e editais dos concursos públicos** que se encaixam no perfil do candidato, tomando como base o seu **CPF**; 
 2. Listar o **nome, data de nascimento e o CPF** dos candidatos que se encaixam no perfil do concurso tomando com base o **Código do Concurso** do concurso público;
